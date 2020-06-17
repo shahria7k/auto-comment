@@ -9,3 +9,4 @@ for i in range(1000):
     pyautogui.typewrite(comments[i%6])
     pyautogui.typewrite("\n")
     time.sleep(0.5)
+    #this is a comment
